@@ -1,0 +1,19 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.center-box {
+    background-color: #190080 ;
+    width: 1500px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.center-item{
+    background-color: #FAE4B6;
+    height: 180px;
+    width: 180px;
+}
